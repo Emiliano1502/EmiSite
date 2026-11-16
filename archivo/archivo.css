@@ -1,0 +1,17 @@
+body { margin: 8px; background: #235baa url(../assets/fondo.png) repeat fixed left top; color: white; font: 16px Georgia, "Times New Roman", serif; }
+.shell { width: 94%; max-width: 700px; margin: 18px auto; }
+.frame { background: #a5c8e2; border-color: #d3efff; }
+.banner { background: #102e7a url(cuadros.gif) repeat; color: #fff580; }
+.banner strong { font: bold 220% "Times New Roman", serif; }
+.banner img { vertical-align: middle; }
+.banner i { display: block; color: white; }
+.menu, .status, .foot, .back { background: #081f60; color: white; }
+.menu { line-height: 1.9; }.menu b { color: #baff90; }
+a { color: #ffff72; } a:visited { color: #f5cbff; }
+.paper { background: #13357d; }.article { padding: 6px 4%; line-height: 1.5; }
+h2 { color: #d1ff80; font: bold 28px "Times New Roman", serif; }
+.article-label, .note, .foot, .back { font: 12px/1.6 Verdana, sans-serif; }
+.note { padding: 10px; background: #08255a; border: 1px dashed #98cfff; }
+.welcome-rule, .signature { color: #baff92; }.signature { text-align:right; }
+.status { font: 12px Verdana,sans-serif; } code { background:black;color:#9f9;padding:3px;letter-spacing:2px; }
+.foot { text-align:center;padding:5px; } .back { padding:3px 6px; } .article p { overflow-wrap:break-word; }
